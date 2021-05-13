@@ -1,0 +1,4 @@
+Predict the Target using given inputs.
+
+1-This code consists of a class which operates both preprocess and model.
+2-Accuracy is about %70-%80.
