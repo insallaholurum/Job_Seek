@@ -1,2 +1,1 @@
-# bogaziciAI
-Tasks for learning purposes 
+# Job_Seek
